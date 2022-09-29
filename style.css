@@ -1,0 +1,45 @@
+h1 {
+	color: #46ab5e;
+	text-align: center;
+	background-color: #872b47;
+	margin: 0;
+	padding: 30px;
+	border-radius: 50px;
+}
+
+.Tanjiro {
+	width:300px;
+	height:300px;
+	object-fit:cover;
+ 	border-radius: 50%;
+}
+
+p {
+	font-size: 20px;
+	color: #46ab5e;
+	font-weight: bold;
+	border-radius: 50px;
+}
+body {
+	background-image: url(https://wallpaperaccess.com/full/8297809.png);
+}
+
+h2{
+	color: #46ab5e;
+}
+
+span {
+	padding: 300px;
+	color: #46ab5e;
+	font-size: 50px;
+}
+
+ul {
+	color: #46ab5e;
+	font-size: 18px;
+}
+
+button {
+	background-color: #872b47;
+	margin-top: 50px;
+}
